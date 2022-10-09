@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <table border = "1px solid black">
+            <caption><center>Cars</center></caption>
+            <tr>
+                <th>Company</th>
+                <th>Model</th>
+            </tr>
+            <tr>
+                <td>Dodge</td>
+                <td>Challenger</td>
+            </tr>
+            <tr>
+                <td>Maruti</td>
+                <td>Swift</td>
+            </tr>
+            </table>
+    </body>
+</html>
