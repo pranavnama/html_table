@@ -14,6 +14,32 @@
                 <td>Maruti</td>
                 <td>Swift</td>
             </tr>
+            <tr>
+                <td>Maruti</td>
+                <td>Swift</td>
+            </tr>
+            <tr>
+                <td>Jeep</td>
+                <td>Wrangler</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Ford</td>
+                <td>Fusion</td>
+            </tr>
+            <tr>
+                <td>Fiesta</td>
+            </tr>
+            <tr>
+                <td>Escape</td>
+            </tr>
+            <tr>
+            <td rowspan="2">BMW</td>
+            <td>BMW 5 Series</td>
+            </tr>
+            <tr>
+                <td>BMW 7 Series</td>
+            </tr>
+
             </table>
     </body>
 </html>
